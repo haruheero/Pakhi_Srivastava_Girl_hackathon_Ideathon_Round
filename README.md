@@ -12,3 +12,5 @@ A heavy rainfall can be defined as rainfall greater than 100 mm in 24 hours. If 
 2. Run the command `git clone https://github.com/haruheero/Pakhi_Srivastava_Girl_hackathon_Ideathon_Round.git`
 3. All the data used for training and testing the model is in the folder Disaster prediction
 4. Run the jupyter notebook `disaster_prediction.ipynb`
+## Demo
+https://drive.google.com/file/d/1tCS-0LDFnCqz24IT4DvyEG0PTfOUAR4P/view?usp=sharing
