@@ -7,10 +7,28 @@ Development of an AI model which takes environmental variables of the past few d
 ### Floods prediction AI model
 Flood prediction model can be explained by taking the example of a city in Kerala -> Kozhikode
 A heavy rainfall can be defined as rainfall greater than 100 mm in 24 hours. If a lot of rainfall is received in an area with low elevation such as Kozhikode (1 m - 50 m approx) that can potentially lead to flooding if the drainage system is not adequate. Rainfall depends on other environmental factors such as humidity, max. temperature, dew, cloud cover, visibility, sea level pressure, wind direction, wind speed to name a few. By taking into account the data of previous (7 days) (3 days in implementation) a prediction for the rainfall that can occur after 7 days can be made. This can give an idea about whether flooding is possible in the region or not (if it is greater than a threshold then flooding is possible). After the rainfall prediction, by using the data from the elevation of different areas of the district, it is possible to evaluate which areas are at risk of flooding. Furthermore using the socio economic distribution data (population density, rural vs urban areas, slums etc.) the impact can be measured on that area & hence proper arrangements can be made.
+### Sentiment Analysis using insta posts
+By web scraping the insta posts or any other social media the severity of flood can be determined. If there are a lot of posts with negative sentiments such as death, destruction, loss of life etc the negative sentiment will be high. First the scraping of posts is done, then searching for information about the area from where it was made & then grouping according to it. Then sentiment analysis on these groups can tell us about the severity of floods. The steps taken for training this model are:
+1. Punctuation removal
+2. Stopword Removal
+3. Lemmatization
+4. Analyzation through word cloud
+5. Using pipelines to pass through NLP transformers for sentiment analysis.
 ## Setup of local environment
 1. Fork this repo
 2. Run the command `git clone https://github.com/haruheero/Pakhi_Srivastava_Girl_hackathon_Ideathon_Round.git`
-3. All the data used for training and testing the model is in the folder Disaster prediction
-4. Run the jupyter notebook `disaster_prediction.ipynb`
+3. All the data used for training and testing the models (flood prediction & insta post sentoment analysis) is in the folder Disaster prediction.
+4. Run the jupyter notebook `Pakhi_Srivastava_Girl_Hackathon_Ideathon_Round.ipynb`
+5. The model is saved in model.pkl
+6. Navigate to `disaster-pred-backend` repo.
+7. Run command python Apis.py
+8. The backend will start to run on `localhost:5000`
+9. Naviagte to `disaster-pred-frontend` repo.
+10. First install all dependencies by running `npm i`.
+11. Run command npm start.
+12. The fromntend will start to run on `localhost:3000`.
+13. Check out the predictions.
+### Setup for sentiment analysis model
+1. Run the jupyter notebook `disaster-text-analysis.ipynb`
 ## Demo
-https://drive.google.com/file/d/1tCS-0LDFnCqz24IT4DvyEG0PTfOUAR4P/view?usp=sharing
+https://drive.google.com/file/d/1NaFPajzAUuInDLo04azrwljS5jFZUZhQ/view?usp=sharing
