@@ -11,7 +11,7 @@ def population_density_sort(model_raindf_rf_predict):
             er_range = int(elevation.iloc[i]['Rainfall Range for Potential Flooding (mm)'].split()[2])
             if model_raindf_rf_predict[rain_i] >= sr_range and model_raindf_rf_predict[rain_i] <= er_range:
                 print('in range')
-                s_range = int(elevation.iloc[i]['Elevation Range (m)'].split()[0])
+                s_range = int(elevation.iloc[i]['Elevation Range (m)'].split()[2])
         for district_i in range(len(kozhikode_district)):
             elev_dist = kozhikode_district.iloc[district_i]['Elevation']
             if elev_dist <= s_range:
