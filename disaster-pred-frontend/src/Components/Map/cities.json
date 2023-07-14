@@ -1,0 +1,410 @@
+[
+      {
+        "city": "Atholi",
+        "population_density": "1340",
+        "state": "Census Town",
+        "latitude": "11.391225330108282",
+        "longitude": "75.75826365685971",
+        "Elevation": 11
+      },
+      {
+        "city": "Ayancheri",
+        "population_density": "1263",
+        "state": "Census Town",
+        "latitude": "11.628075246461576",
+        "longitude": "75.6773959196243",
+        "Elevation": 24
+      },
+      {
+        "city": "Azhiyur",
+        "population_density": "3073",
+        "state": "Census Town",
+        "latitude": "11.698950039450066",
+        "longitude": "75.54681733604319",
+        "Elevation": 11
+      },
+      {
+        "city": "Balussen (Balussery)",
+        "population_density": "1219",
+        "state": "Census Town",
+        "latitude": "11.443075870077077",
+        "longitude": "75.81819748807494",
+        "Elevation": 42
+      },
+      {
+        "city": "Beypore",
+        "population_density": "6700",
+        "state": "Census Town",
+        "latitude": "11.17389674819058",
+        "longitude": "75.80416189929561",
+        "Elevation": 1
+      },
+      {
+        "city": "Chekkiad",
+        "population_density": "990.4",
+        "state": "Census Town",
+        "latitude": "11.747953299534466",
+        "longitude": "75.66269452532998",
+        "Elevation": 16
+      },
+      {
+        "city": "Chelannur",
+        "population_density": "1702",
+        "state": "Census Town",
+        "latitude": "11.35734709548427",
+        "longitude": "75.8099589467248",
+        "Elevation": 13
+      },
+      {
+        "city": "Chemancheri",
+        "population_density": "2078",
+        "state": "Census Town",
+        "latitude": "11.395742872233267",
+        "longitude": "75.72728836703577",
+        "Elevation": 17
+      },
+      {
+        "city": "Cheruvannur",
+        "population_density": "5976",
+        "state": "Census Town",
+        "latitude": "11.19543091260626",
+        "longitude": "75.82583419021199",
+        "Elevation": 11
+      },
+      {
+        "city": "Chorode",
+        "population_density": "2852",
+        "state": "Census Town",
+        "latitude": "11.632760325041938",
+        "longitude": "75.6016123275889",
+        "Elevation": 11
+      },
+      {
+        "city": "Edacheri",
+        "population_density": "1658",
+        "state": "Census Town",
+        "latitude": "11.663642484545965",
+        "longitude": "75.616302882413",
+        "Elevation": 16
+      },
+      {
+        "city": "Eramala",
+        "population_density": "1818",
+        "state": "Census Town",
+        "latitude": "11.679086584456106",
+        "longitude": "75.59370751855472",
+        "Elevation": 11
+      },
+      {
+        "city": "Eravattur",
+        "population_density": "1125",
+        "state": "Census Town",
+        "latitude": "11.542875288449556",
+        "longitude": "75.7358849352146",
+        "Elevation": 11
+      },
+      {
+        "city": "Feroke",
+        "population_density": "4227",
+        "state": "Census Town",
+        "latitude": "11.174497581397112",
+        "longitude": "75.83651990650077",
+        "Elevation": 20
+      },
+      {
+        "city": "Iringal",
+        "population_density": "2050",
+        "state": "Census Town",
+        "latitude": "11.54517648091183",
+        "longitude": "75.60405947729534",
+        "Elevation": 24
+      },
+      {
+        "city": "Kakkodi",
+        "population_density": "2300",
+        "state": "Census Town",
+        "latitude": "11.31978494451928",
+        "longitude": "75.80180158855232",
+        "Elevation": 13
+      },
+      {
+        "city": "Karuvanthuruthy",
+        "population_density": "3733",
+        "state": "Census Town",
+        "latitude": "11.16811078034586",
+        "longitude": "75.82269002953686",
+        "Elevation": 11
+      },
+      {
+        "city": "Keezhariyur",
+        "population_density": "1104",
+        "state": "Census Town",
+        "latitude": "11.503169580496936",
+        "longitude": "75.68642574786129",
+        "Elevation": 24
+      },
+      {
+        "city": "Koothali",
+        "population_density": "1382",
+        "state": "Census Town",
+        "latitude": "11.585367673820539",
+        "longitude": "75.76532284753901",
+        "Elevation": 11
+      },
+      {
+        "city": "Kottappally",
+        "population_density": "1316",
+        "state": "Census Town",
+        "latitude": "11.611147898298748",
+        "longitude": "75.6636570863774",
+        "Elevation": 24
+      },
+      {
+        "city": "Kozhikode (Calicut)",
+        "population_density": "4419",
+        "state": "Municipal Corporation with Outgrowth",
+        "latitude": "11.27060462772816",
+        "longitude": "75.78263672432857",
+        "Elevation": 1
+      },
+      {
+        "city": "Kozhukkallur",
+        "population_density": "1092",
+        "state": "Census Town",
+        "latitude": "11.512573687471747",
+        "longitude": "75.7257542194629",
+        "Elevation": 24
+      },
+      {
+        "city": "Kunnamangalam",
+        "population_density": "1942",
+        "state": "Census Town",
+        "latitude": "11.305382582066182",
+        "longitude": "75.87574486257243",
+        "Elevation": 15
+      },
+      {
+        "city": "Kunnummal",
+        "population_density": "1703",
+        "state": "Census Town",
+        "latitude": "11.678417250448033",
+        "longitude": "75.70985367878646",
+        "Elevation": 11
+      },
+      {
+        "city": "Kuruvattur",
+        "population_density": "1904",
+        "state": "Census Town",
+        "latitude": "11.3227838706524",
+        "longitude": "75.8472464192434",
+        "Elevation": 5
+      },
+      {
+        "city": "Kuttikkattoor",
+        "population_density": "2442",
+        "state": "Census Town",
+        "latitude": "11.263392663245815",
+        "longitude": "75.8714204220474",
+        "Elevation": 15
+      },
+      {
+        "city": "Maniyur",
+        "population_density": "1144",
+        "state": "Census Town",
+        "latitude": "11.540917565328527",
+        "longitude": "75.65155740589489",
+        "Elevation": 24
+      },
+      {
+        "city": "Mavoor",
+        "population_density": "1468",
+        "state": "Census Town",
+        "latitude": "11.268872550970812",
+        "longitude": "75.94235438729386",
+        "Elevation": 24
+      },
+      {
+        "city": "Menhaniam",
+        "population_density": "1435",
+        "state": "Census Town",
+        "latitude": "11.557661185378649",
+        "longitude": "75.78160665318435",
+        "Elevation": 11
+      },
+      {
+        "city": "Meppayyur (Meppayur)",
+        "population_density": "1316",
+        "state": "Census Town",
+        "latitude": "11.526341150693948",
+        "longitude": "75.72123393087989",
+        "Elevation": 24
+      },
+      {
+        "city": "Nadapuram",
+        "population_density": "1968",
+        "state": "Census Town",
+        "latitude": "11.684078120273442",
+        "longitude": "75.65781242310712",
+        "Elevation": 21
+      },
+      {
+        "city": "Naduvannur",
+        "population_density": "1170",
+        "state": "Census Town",
+        "latitude": "11.486338601779973",
+        "longitude": "75.77391558746926",
+        "Elevation": 11
+      },
+      {
+        "city": "Nanmanda",
+        "population_density": "1183",
+        "state": "Census Town",
+        "latitude": "11.422889145460811",
+        "longitude": "75.83139171698964",
+        "Elevation": 13
+      },
+      {
+        "city": "Olavanna",
+        "population_density": "3878",
+        "state": "Census Town",
+        "latitude": "11.224330410541379",
+        "longitude": "75.82982862317033",
+        "Elevation": 11
+      },
+      {
+        "city": "Palayad",
+        "population_density": "1516",
+        "state": "Census Town",
+        "latitude": "11.794068984257157",
+        "longitude": "75.47246174723152",
+        "Elevation": 24
+      },
+      {
+        "city": "Panangad",
+        "population_density": "1279",
+        "state": "Census Town",
+        "latitude": "9.893959289900728",
+        "longitude": "76.3259650571806",
+        "Elevation": 11
+      },
+      {
+        "city": "Pantheeramkavu",
+        "population_density": "2427",
+        "state": "Census Town",
+        "latitude": "11.231180633820312",
+        "longitude": "75.85172871366271",
+        "Elevation": 11
+      },
+      {
+        "city": "Perumanna",
+        "population_density": "2149",
+        "state": "Census Town",
+        "latitude": "11.24574036759659",
+        "longitude": "75.88268458841647",
+        "Elevation": 15
+      },
+      {
+        "city": "Peruvayal",
+        "population_density": "1751",
+        "state": "Census Town",
+        "latitude": "11.263399865077572",
+        "longitude": "75.90395256203887",
+        "Elevation": 15
+      },
+      {
+        "city": "Poolacode",
+        "population_density": "1049",
+        "state": "Census Town",
+        "latitude": "11.295068164888733",
+        "longitude": "75.93967007136582",
+        "Elevation": 15
+      },
+      {
+        "city": "Quilandy (Kayilandy)",
+        "population_density": "2474",
+        "state": "Municipality",
+        "latitude": "11.443551103704094",
+        "longitude": "75.6976392063381",
+        "Elevation": 2
+      },
+      {
+        "city": "Ramanattukara",
+        "population_density": "3069",
+        "state": "Census Town",
+        "latitude": "11.189570730654268",
+        "longitude": "75.87178939061653",
+        "Elevation": 8
+      },
+      {
+        "city": "Thalakkulathur",
+        "population_density": "1686",
+        "state": "Census Town",
+        "latitude": "11.349627735191786",
+        "longitude": "75.75965687421748",
+        "Elevation": 13
+      },
+      {
+        "city": "Thazhecode",
+        "population_density": "1273",
+        "state": "Census Town",
+        "latitude": "11.334488777021841",
+        "longitude": "75.9663260715013",
+        "Elevation": 15
+      },
+      {
+        "city": "Thikkody (Thikkodi)",
+        "population_density": "1913",
+        "state": "Census Town",
+        "latitude": "11.49522454819460",
+        "longitude": "75.62409831758653",
+        "Elevation": 24
+      },
+      {
+        "city": "Thuneri",
+        "population_density": "1516",
+        "state": "Census Town",
+        "latitude": "11.709063310607227",
+        "longitude": "75.63419109493238",
+        "Elevation": 16
+      },
+      {
+        "city": "Thurayur",
+        "population_density": "1353",
+        "state": "Census Town",
+        "latitude": "11.52489592446328",
+        "longitude": "75.67328021153118",
+        "Elevation": 24
+      },
+      {
+        "city": "Ulliyeri",
+        "population_density": "1256",
+        "state": "Census Town",
+        "latitude": "11.448538021127085",
+        "longitude": "75.77033131312344",
+        "Elevation": 11
+      },
+      {
+        "city": "Vadakara (Vatakara)",
+        "population_density": "3532",
+        "state": "Municipality",
+        "latitude": "11.602718071236335",
+        "longitude": "75.59016425368057",
+        "Elevation": 15
+      },
+      {
+        "city": "Valayam",
+        "population_density": "648.6",
+        "state": "Census Town",
+        "latitude": "11.720817986511571",
+        "longitude": "75.67008781595841",
+        "Elevation": 16
+      },
+      {
+        "city": "Villiappally",
+        "population_density": "1989",
+        "state": "Census Town",
+        "latitude": "11.625933813771875",
+        "longitude": "75.62835189034949",
+        "Elevation": 11
+      }
+    ]
