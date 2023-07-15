@@ -22,7 +22,7 @@ By web scraping the insta posts or any other social media the severity of flood 
 5. The model is saved in model.pkl
 6. Navigate to `disaster-pred-backend` repo.
 7. Run command python Apis.py
-8. The backend will start to run on `localhost:5000`
+8. The backend will start to run on `localhost:5000/model`
 9. Naviagte to `disaster-pred-frontend` repo.
 10. First install all dependencies by running `npm i`.
 11. Run command npm start.
