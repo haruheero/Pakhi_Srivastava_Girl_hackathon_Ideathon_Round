@@ -27,7 +27,8 @@ By web scraping the insta posts or any other social media the severity of flood 
 10. First install all dependencies by running `npm i`.
 11. Run command npm start.
 12. The frontend will start to run on `localhost:3000`.
-13. Check out the predictions.
+13. Go to mapbox, create a new token & put it in `disaster-pred-frontend/src/Components/Map/Map.js`
+14. Check out the predictions.
 ### Setup for sentiment analysis model
 1. Run the jupyter notebook `disaster-text-analysis.ipynb`
 ## Demo
