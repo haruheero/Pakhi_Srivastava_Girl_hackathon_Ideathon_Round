@@ -15,7 +15,7 @@ import Pin from './pin';
 import CITIES from './cities.json';
 
 const TOKEN =
-  'pk.eyJ1Ijoic2hyZXk3MTQiLCJhIjoiY2xqd2l6azdxMDkyYjNjbnZkbTBpeHJiaSJ9.gu1UaweWbty0hmK7kBOatA'; // Set your mapbox token here
+  ''; // Set your mapbox token here
 
 export default function MApp({data}) {
   const [popupInfo, setPopupInfo] = useState(null);
