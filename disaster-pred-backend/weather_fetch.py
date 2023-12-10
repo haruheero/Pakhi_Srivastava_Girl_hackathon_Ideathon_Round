@@ -2,7 +2,7 @@ import requests
 import json
 
 def weather_fetch_api():
-    res = requests.get('https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/kozhikode/next7days?unitGroup=metric&key=5TRR35DMSDPSREP7KZVV66TDY&contentType=json')
+    res = requests.get('INSERT_YOU_WEARTHER_VISUAL_CROSSING_API_HERE')
     response = json.loads(res.text)
     response = response['days'][:3]
     data_arr = [ response[2]['tempmax'],
